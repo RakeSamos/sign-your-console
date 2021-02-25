@@ -1,0 +1,23 @@
+{
+  "name": "sign-your-console",
+  "version": "1.0.0",
+  "description": "A simple fun-tip to create a sign at your browser console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakeSamos/sign-your-console.git"
+  },
+  "keywords": [
+    "sign",
+    "console"
+  ],
+  "author": "Rake Samos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RakeSamos/sign-your-console/issues"
+  },
+  "homepage": "https://github.com/RakeSamos/sign-your-console#readme"
+}
